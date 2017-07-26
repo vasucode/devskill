@@ -1,3 +1,3 @@
 # README
 
-[SaiberLabs](http://saiberlabs.com) Software-as-a-Service Ruby on Rails App
+[SaiberLabs](http://saiberlabs.com) Software-as-a-Service Lab for Ruby on Rails App
